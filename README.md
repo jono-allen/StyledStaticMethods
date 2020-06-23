@@ -1,0 +1,2 @@
+# StyledStaticMethods
+Created with CodeSandbox
